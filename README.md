@@ -1,2 +1,2 @@
 # Zenchain-Education
-A Webpage that explains, everything about zenchain From signup to staking and getting started on the discord.
+A Webpage that explains, everything about Zenchain even to a newbie just getting started on zenchain.
