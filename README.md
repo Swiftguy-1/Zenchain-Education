@@ -4,7 +4,7 @@ Welcome to **Zenchain Education**— a simple and beginner-friendly website desi
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the live site](https://swiftguy-1.github.io)
+👉 [Click here to view the live site](https://swiftguy-1.github.io/Zenchain-Education/)
 
 ## 📘 About the Project
 
@@ -23,15 +23,8 @@ Everything is written in a clear, easy-to-understand style to help newcomers get
 - CSS (custom styling)
 - Hosted using **GitHub Pages**
 
-## 📂 Folder Structure
-## 🚀 How to Use
-
-1. Clone the repo or download the ZIP
-2. Open `index.html` in your browser
-3. Or just [visit the live demo](https://swiftguy-1.github.io)
-
 ## 🙌 Author
 
-Created with 💚 by **Bright Kelechi (Swiftguy-1)**
+Created with 💚 by **Bright Kelechi (datswiftdev)**
 
 ---
